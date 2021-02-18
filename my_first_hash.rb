@@ -1,6 +1,6 @@
 def my_hash
 
-return your_hash []  
+return your_hash = {"test" => 1, "FOREAL" => 4}  
 end
 
 
